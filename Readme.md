@@ -23,10 +23,14 @@ Esta é uma API RESTful desenvolvida para gerenciar Usuarios. Ela Permite Criar,
 | DELETE | `/users/deleteUser/:id`| Deleta um usuario    |
 
 ## Como Iniciar o Projeto Localmente
-Passo 1 - git clone https://github.com/Emanoellima-dev/API-REST.git
+Passo 1 - clonar o repositório
+git clone https://github.com/Emanoellima-dev/API-REST.git
 Passo 2 - cd API-REST
+
 Passo 3 - npm install
-Passo 4 - crie um arquivo .env na raiz do peojeto baseado no arquivo (.env.example)[https://github.com/Emanoellima-dev/API-REST/.env.example] e configure com as vairaveis de ambiente.
+
+Passo 4 - crie um arquivo .env na raiz do peojeto baseado no arquivo (.env.example)[https://github.com/Emanoellima-dev/API-REST/.env.example] e configurar as viriaveis de ambiente.
+
 Passo 5 - Iniciar o servidor: "npm install".
 Após isso a API estara disponivel localmente.
 
