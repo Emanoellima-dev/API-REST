@@ -31,7 +31,7 @@ Esta é uma API RESTful desenvolvida para gerenciar Usuarios. Ela Permite Criar,
 ## Como Iniciar o Projeto Localmente
 Passo 1 - clonar o repositório
 
-"git clone https://github.com/Emanoellima-dev/API-REST.git"
+<p>git clone https://github.com/Emanoellima-dev/API-REST.git</p>
 
 Passo 2 - cd API-REST
 
