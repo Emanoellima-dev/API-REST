@@ -18,9 +18,17 @@ Esta é uma API RESTful desenvolvida para gerenciar Usuarios. Ela Permite Criar,
 | GET    | `/users/:id`| Retorna um usuario específico   |
 | POST   | `/auth/register` | Registra  novo usuario     |
 | POST   | `/auth/login` | Faz o login do Usuario e gera um Token de acesso.
-| PUT    | `/users/updateUser/:id`| Atualiza um produto existente  |
+| PUT    | `/users/updateUser/:id`| Atualiza um usuario  |
 | GET | `/profile` | rota protegida. apenas usuarios logados podem ter acesso.
-| DELETE | `/users/deleteUser/:id`| Deleta um produto    |
+| DELETE | `/users/deleteUser/:id`| Deleta um usuario    |
 
 ## Como Iniciar o Projeto Localmente
+Passo 1 - git clone https://github.com/Emanoellima-dev/API-REST.git
+Passo 2 - cd API-REST
+Passo 3 - npm install
+Passo 4 - crie um arquivo .env na raiz do peojeto baseado no arquivo (.env.example)[https://github.com/Emanoellima-dev/API-REST/.env.example] e configure com as vairaveis de ambiente.
+Passo 5 - Iniciar o servidor: "npm install".
+Após isso a API estara disponivel localmente.
 
+## Observaçoes
+a API publica não vai ser divulgada aqui. para iniciar o projeto localmente siga as inrruçoes acima.
