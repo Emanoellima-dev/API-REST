@@ -5,10 +5,16 @@ Esta é uma API RESTful desenvolvida para gerenciar Usuarios. Ela Permite Criar,
 
 ## Tecnologias Usadas
 ● Nodejs
+
 ● Express
+
 ● MYSQL
+
 ● sequelize
+
 ● bcrypt para hash de senhas
+
+● JWT - para gerar tokes de acesso.
 
 ## Endpoints
 
@@ -24,7 +30,8 @@ Esta é uma API RESTful desenvolvida para gerenciar Usuarios. Ela Permite Criar,
 
 ## Como Iniciar o Projeto Localmente
 Passo 1 - clonar o repositório
-git clone https://github.com/Emanoellima-dev/API-REST.git
+
+"git clone https://github.com/Emanoellima-dev/API-REST.git"
 
 Passo 2 - cd API-REST
 
