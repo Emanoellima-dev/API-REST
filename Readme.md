@@ -39,7 +39,7 @@ Passo 3 - npm install
 
 Passo 4 - crie um arquivo .env na raiz do peojeto baseado no arquivo [.env.example](https://github.com/Emanoellima-dev/API-REST/.env.example) e configurar as viriaveis de ambiente.
 
-Passo 5 - Iniciar o servidor: "npm install".
+Passo 5 - Iniciar o servidor: "npm start".
 Após isso a API estara disponivel localmente.
 
 ## Observaçoes
