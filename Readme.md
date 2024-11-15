@@ -31,7 +31,7 @@ Esta é uma API RESTful desenvolvida para gerenciar Usuarios. Ela Permite Criar,
 ## Como Iniciar o Projeto Localmente
 Passo 1 - clonar o repositório
 
-<p>git clone https://github.com/Emanoellima-dev/API-REST.git</p>
+git clone https://github.com/Emanoellima-dev/API-REST.git
 
 Passo 2 - cd API-REST
 
@@ -40,7 +40,7 @@ Passo 3 - npm install
 Passo 4 - crie um arquivo .env na raiz do peojeto baseado no arquivo [.env.example](https://github.com/Emanoellima-dev/API-REST/blob/main/.env.example) e configurar as viriaveis de ambiente.
 
 Passo 5 - Iniciar o servidor: "npm start".
-Após isso a API estara disponivel localmente.
+Após isso a API estará disponivel localmente.
 
 ## Observaçoes
 a API publica não vai ser divulgada aqui. para iniciar o projeto localmente siga as inrruçoes acima.
