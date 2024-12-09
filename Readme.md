@@ -43,4 +43,4 @@ Passo 5 - Iniciar o servidor: "npm start".
 Após isso a API estará disponivel localmente.
 
 ## Observaçoes
-a API publica não vai ser divulgada aqui. para iniciar o projeto localmente siga as inrruçoes acima.
+a API publica não vai ser divulgada aqui. para iniciar o projeto localmente siga as instruçoes acima.
